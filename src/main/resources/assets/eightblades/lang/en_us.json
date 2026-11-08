@@ -1,0 +1,11 @@
+{
+  "item.eightblades.mud_sword": "§6[I] Noob Mud Sword",
+  "item.eightblades.cactus_sword": "§a[II] Cactus Thornbreaker",
+  "item.eightblades.venom_sword": "§2[III] Spider Venom Blade",
+  "item.eightblades.thunder_sword": "§b[IV] Thunder Chain Blade",
+  "item.eightblades.frost_sword": "§3[V] Frost Blizzard Blade",
+  "item.eightblades.phoenix_sword": "§c[VI] Ashen Phoenix Blade",
+  "item.eightblades.astral_sword": "§d[VII] Astral Rift Blade",
+  "item.eightblades.eclipse_sword": "§5§l[VIII] Eternal Eclipse Blade",
+  "itemGroup.eightblades.main": "Legend of Eight Blades (Dima & Ulyana)"
+}

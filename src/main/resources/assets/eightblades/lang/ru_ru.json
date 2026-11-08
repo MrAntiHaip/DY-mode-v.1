@@ -1,0 +1,11 @@
+{
+  "item.eightblades.mud_sword": "§6[I] Грязевой Меч Нуба",
+  "item.eightblades.cactus_sword": "§a[II] Кактусовый Шиполом",
+  "item.eightblades.venom_sword": "§2[III] Паучий Клинок Яда",
+  "item.eightblades.thunder_sword": "§b[IV] Грозовой Клинок Цепи",
+  "item.eightblades.frost_sword": "§3[V] Клинок Ледяной Вьюги",
+  "item.eightblades.phoenix_sword": "§c[VI] Клинок Пепельного Феникса",
+  "item.eightblades.astral_sword": "§d[VII] Клинок Астрального Разлома",
+  "item.eightblades.eclipse_sword": "§5§l[VIII] Клинок Вечного Затмения",
+  "itemGroup.eightblades.main": "Легенда Восьми Клинков (Дима и Ульяна)"
+}
